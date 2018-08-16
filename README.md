@@ -1,7 +1,7 @@
 # Concurrency and Threads
 
 
-## Business competences (Concurrency/threads)
+## Business Competences (Concurrency/threads)
 
 As a programmer there are problems that can only (realistically) be solved using
 concurrency features
