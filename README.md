@@ -13,13 +13,13 @@ features in Java, with all concepts being generalisable to many other languages 
 
 ## Plan
 
-#### [Day 1](Day1) - Concurrency, Thread, Runnable, basic Synchronization
+#### [Day 1](https://docs.google.com/document/d/18yLXuhqoEAUFCDjX_GvldTpkJhXPhMtB92q3AN9JL90/edit?usp=sharing) - Concurrency, Thread, Runnable, basic Synchronization
 
-#### Day 2 - Threads Continued, Producer Consumer, DeadLocks
+#### [Day 2](https://docs.google.com/document/d/1wfhJVtA_1-UkiTVNk1Bu6JVx8Jfd2MT614t39RjW3Fo/edit?usp=sharing) - Threads Continued, Producer Consumer, DeadLocks
 
-#### [Day 3](Day3) - Thread Continued, Callables and Futures
+#### [Day 3](https://docs.google.com/document/d/12os8xQZfbkENZFUNVjKLHTPzV4uJWhedovbN4ymJgeQ/edit?usp=sharing) - Thread Continued, Callables and Futures
 
-#### Day 4-5 - More exercises
+#### [Day 4-5](https://docs.google.com/document/d/1CK0kLPddFaIKsKSEL0q4Gwavf-CLcxrGL0JiKeRCUI8/edit?usp=sharing) - SP-1
 
 
 ### Resources: 
