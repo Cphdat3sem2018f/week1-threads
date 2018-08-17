@@ -14,9 +14,9 @@ Skim section 2.2 to get an idea about the "original" way to solve the producer-c
 - 3.2.3 (Concurrenc Collections) - Skim ONLY
 - 3.2.4 Atomic Variables
 
-[Short video](https://www.youtube.com/watch?v=VXJSJ6c3ZIs) 
+- [Short video](https://www.youtube.com/watch?v=VXJSJ6c3ZIs) 
 Watch this before the lesson to get a conceptual idea about the Producer-Consumer problem. Ignore the talk about ring-buffers
-[BlockingQueue implementions to solve Producer-consumer problems](http://tutorials.jenkov.com/java-util-concurrent/blockingqueue.html)
+- [BlockingQueue implementions to solve Producer-consumer problems](http://tutorials.jenkov.com/java-util-concurrent/blockingqueue.html)
 
 ### Slides
 TBD
