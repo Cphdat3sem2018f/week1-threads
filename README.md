@@ -22,8 +22,8 @@ features in Java, with all concepts being generalisable to many other languages 
 #### Day 4-5 - StudyPoint Exercise -1
 
 ## Plan + redings for each class
-[A - class](https://github.com/Cphdat3sem2018f/week1-threads/tree/master/A)
-[B - class](https://github.com/Cphdat3sem2018f/week1-threads/tree/master/B)
+- [A - class](https://github.com/Cphdat3sem2018f/week1-threads/tree/master/A)
+- [B - class](https://github.com/Cphdat3sem2018f/week1-threads/tree/master/B)
 
 
 ### Resources: 
