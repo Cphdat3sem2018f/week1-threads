@@ -1,5 +1,5 @@
 # Day-1
-[Java Concurrency Essentials p 1-8] (https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
+[Java Concurrency Essentials p 1-8](https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
 Don't just read, code along, while you read
 
 
@@ -7,7 +7,7 @@ Don't just read, code along, while you read
 [day-1](https://docs.google.com/presentation/d/1fyzHZQicToYvq9X-IB2ZtuA3tS5CqkdAH9rKfuD2JDE/edit?usp=sharing)
 
 # Day-2
-Read in [Java Concurrency Essentials] (https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
+Read in [Java Concurrency Essentials](https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
 - 2.1 Liveness (Deadlocks and Starvation)
 Skim section 2.2 to get an idea about the "original" way to solve the producer-consumer problem 
 - 3.1 - 3.2.2 (Executor and ExecutorService)
