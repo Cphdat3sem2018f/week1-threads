@@ -4,6 +4,7 @@ Don't just read, code along, while you read
 
 
 ### Slides
+[intro](https://docs.google.com/presentation/d/1ta1GsQeeXvno0MwWrWaKsSMHxrvfE37oViMuKzrhIxs/edit?usp=sharing)
 [day-1](https://docs.google.com/presentation/d/1fyzHZQicToYvq9X-IB2ZtuA3tS5CqkdAH9rKfuD2JDE/edit?usp=sharing)
 
 # Day-2
