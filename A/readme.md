@@ -20,7 +20,7 @@ Watch this before the lesson to get a conceptual idea about the Producer-Consume
 - [BlockingQueue implementions to solve Producer-consumer problems](http://tutorials.jenkov.com/java-util-concurrent/blockingqueue.html)
 
 ### Slides
-TBD
+[day-2](https://docs.google.com/presentation/d/1fC6goCRTk47h5wVACawxSou8XDJZWq7GgbrCAfTg61g/edit?usp=sharing)
 
 # Day-3
 TBD
