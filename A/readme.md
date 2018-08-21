@@ -1,6 +1,6 @@
 [snippets](https://docs.google.com/document/d/1TO2FA_RSbsRlAHA4xAgMwz8i73jkZ44SO3J0fRRJoy8/edit?usp=sharing)
 
-[Make sure your are in a group before Friday](https://docs.google.com/spreadsheets/d/1fJ0o0NU-Ri53gtXFo-hiue2SeE06Duu_-pDIV5sxQOU/edit?usp=sharing)
+Important: [Make sure your are in a group before Friday](https://docs.google.com/spreadsheets/d/1fJ0o0NU-Ri53gtXFo-hiue2SeE06Duu_-pDIV5sxQOU/edit?usp=sharing)
 
 # Day-1
 [Java Concurrency Essentials p 1-8](https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
