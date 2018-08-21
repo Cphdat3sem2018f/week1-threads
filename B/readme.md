@@ -22,6 +22,7 @@ Read in [Java Concurrency Essentials](https://www.javacodegeeks.com/minibook/jav
 - 3.2.3 (Concurrenc Collections) - Skim ONLY
 - 3.2.4 Atomic Variables
 Read this one page about [Callables and Futures](https://www.journaldev.com/1090/java-callable-future-example)
+Read this one page about [Reentrant Lock in the api](https://www.journaldev.com/2377/java-lock-example-reentrantlock)
 
 # Grupperne 
 [Ark til review](https://docs.google.com/spreadsheets/d/1m44DXpp-kcUK2TMKmlDDL9N68IFPyxuSx_L6Q7ZfAo4/edit?usp=sharing)
