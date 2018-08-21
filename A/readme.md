@@ -27,4 +27,7 @@ Watch this before the lesson to get a conceptual idea about the Producer-Consume
 [day-2](https://docs.google.com/presentation/d/1fC6goCRTk47h5wVACawxSou8XDJZWq7GgbrCAfTg61g/edit?usp=sharing)
 
 # Day-3
-TBD
+- If not already done, read in [Java Concurrency Essentials](https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
+3.1 - 3.2.2 (Executor and ExecutorService)
+- Read this one page about [Callables and Futures](https://www.journaldev.com/1090/java-callable-future-example)
+
