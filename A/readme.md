@@ -1,3 +1,7 @@
+[snippets](https://docs.google.com/document/d/1TO2FA_RSbsRlAHA4xAgMwz8i73jkZ44SO3J0fRRJoy8/edit?usp=sharing)
+
+[groups](https://docs.google.com/spreadsheets/d/1fJ0o0NU-Ri53gtXFo-hiue2SeE06Duu_-pDIV5sxQOU/edit?usp=sharing)
+
 # Day-1
 [Java Concurrency Essentials p 1-8](https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
 Don't just read, code along, while you read
