@@ -31,3 +31,6 @@ Watch this before the lesson to get a conceptual idea about the Producer-Consume
 3.1 - 3.2.2 (Executor and ExecutorService)
 - Read this one page about [Callables and Futures](https://www.journaldev.com/1090/java-callable-future-example)
 
+## Day-3 Exercises
+[ExecutorService Callables and Futures](https://docs.google.com/document/d/1d_EwGL1kgkaptFjDay5SY-A02hDNCSVRdwtN3sa8C5M/edit?usp=sharing)
+
