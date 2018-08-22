@@ -23,6 +23,8 @@ Read in [Java Concurrency Essentials](https://www.javacodegeeks.com/minibook/jav
 - 3.2.4 Atomic Variables
 Read this one page about [Callables and Futures](https://www.journaldev.com/1090/java-callable-future-example)
 Read this one page about [Reentrant Lock in the api](https://www.journaldev.com/2377/java-lock-example-reentrantlock)
+### Exercises
+[Exercises Day-3](https://docs.google.com/document/d/12os8xQZfbkENZFUNVjKLHTPzV4uJWhedovbN4ymJgeQ/edit?usp=sharing) (Using an executor service)
 
 # Grupperne 
 [Ark til review](https://docs.google.com/spreadsheets/d/1m44DXpp-kcUK2TMKmlDDL9N68IFPyxuSx_L6Q7ZfAo4/edit?usp=sharing)

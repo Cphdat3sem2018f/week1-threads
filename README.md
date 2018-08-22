@@ -30,5 +30,5 @@ features in Java, with all concepts being generalisable to many other languages 
 
   * [Exercises Day-1](https://docs.google.com/document/d/18yLXuhqoEAUFCDjX_GvldTpkJhXPhMtB92q3AN9JL90/edit?usp=sharing) (Basic thread creation and raceconditions)
   * [Exercises Day-2](https://docs.google.com/document/d/1wfhJVtA_1-UkiTVNk1Bu6JVx8Jfd2MT614t39RjW3Fo/edit?usp=sharing) (Producer/Consumer and Deadlocks)
-  * [Exercises Day-3](https://docs.google.com/document/d/12os8xQZfbkENZFUNVjKLHTPzV4uJWhedovbN4ymJgeQ/edit?usp=sharing) (Using an executor service)
+  * See the individual classes (A or B) for the day-3 exercise
   * [Exam preparation Day 4 and 5](https://docs.google.com/document/d/1CK0kLPddFaIKsKSEL0q4Gwavf-CLcxrGL0JiKeRCUI8/edit?usp=sharing)

@@ -1,6 +1,6 @@
 [snippets](https://docs.google.com/document/d/1TO2FA_RSbsRlAHA4xAgMwz8i73jkZ44SO3J0fRRJoy8/edit?usp=sharing)
 
-[groups](https://docs.google.com/spreadsheets/d/1fJ0o0NU-Ri53gtXFo-hiue2SeE06Duu_-pDIV5sxQOU/edit?usp=sharing)
+Important: [Make sure your are in a group before Friday](https://docs.google.com/spreadsheets/d/1fJ0o0NU-Ri53gtXFo-hiue2SeE06Duu_-pDIV5sxQOU/edit?usp=sharing)
 
 # Day-1
 [Java Concurrency Essentials p 1-8](https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
@@ -27,4 +27,12 @@ Watch this before the lesson to get a conceptual idea about the Producer-Consume
 [day-2](https://docs.google.com/presentation/d/1fC6goCRTk47h5wVACawxSou8XDJZWq7GgbrCAfTg61g/edit?usp=sharing)
 
 # Day-3
-TBD
+- If not already done, read in [Java Concurrency Essentials](https://www.javacodegeeks.com/minibook/java-concurrency-essentials)
+3.1 - 3.2.2 (Executor and ExecutorService)
+- Read this one page about [Callables and Futures](https://www.journaldev.com/1090/java-callable-future-example)
+
+### Day-3 Exercises
+[ExecutorService Callables and Futures](https://docs.google.com/document/d/1d_EwGL1kgkaptFjDay5SY-A02hDNCSVRdwtN3sa8C5M/edit?usp=sharing)
+
+### Slides
+[day-3](https://docs.google.com/presentation/d/1cqgdc0p8Tp1KgIWpl6l9V_8-J6IHl8iev-R9VYQIh6Q/edit?usp=sharing)
